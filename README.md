@@ -640,18 +640,7 @@ UJ_ADVISOR/
 
 ---
 
-## License
-
-Add your license here. For example:
-
-```text
-MIT License
-```
-
-or keep the project private if it contains sensitive academic/student data.
-
----
 
 ## Authors
 
-Developed as part of the UJ Advisor academic advising project.
+Developed as an AI students Senior project : Ghala Alotaibi, Shahad Alzahrani, Atheer Alsulami, Rahaf Jelan, Lujain Alsuilme
